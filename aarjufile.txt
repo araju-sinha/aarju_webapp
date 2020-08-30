@@ -1,3 +1,2 @@
 This is a new 
 This is my next line
-This is a new line in this file
